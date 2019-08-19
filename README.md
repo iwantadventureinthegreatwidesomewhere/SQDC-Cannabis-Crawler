@@ -1,4 +1,4 @@
-## Fetch all the cannabis products available near you.
+## Fetch all cannabis products available near you.
 
 Using the SQDC can be painfully unreliable. Oftentimes the majority of their displayed products are out of stock or unavailable. With this Node.js SQDC crawler, you can now quickly fetch all available cannabis products near you.
 
