@@ -4,4 +4,14 @@ Using the SQDC can be painfully unreliable. Oftentimes the majority of their dis
 
 The crawler fetches the name of available products, and also additional useful details such as species, type, and THC content. It also provides a SQDC website link so you can swiftly navigate to a product of your liking.
 
-Use the command line to install the Node.js crawler's dependencies (with npm) and then run the application. Enjoy!
+To use this crawler, make sure to have [npm](https://www.npmjs.com) installed on your machine.
+
+Use the command line to install the Node.js crawler's dependencies.
+
+```npm install```
+
+Finally, run the Node.js application.
+
+```node index.js```
+
+It's as simple as that! Enjoy!
