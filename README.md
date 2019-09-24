@@ -8,10 +8,14 @@ To use this crawler, make sure to have [npm](https://www.npmjs.com) installed on
 
 Use the command line to install the Node.js crawler's dependencies.
 
-```npm install```
+```console
+npm install
+```
 
 Finally, run the Node.js application.
 
-```node index.js```
+```console
+node index.js
+```
 
 It's as simple as that! Enjoy!
